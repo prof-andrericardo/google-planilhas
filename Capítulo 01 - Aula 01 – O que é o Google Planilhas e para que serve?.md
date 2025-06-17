@@ -53,8 +53,19 @@ Vamos criar nossa **primeira planilha**!
 | Sexta    | Inglês         | 14h - 15h   |
 ```
 
-1. Altere a cor da primeira linha (título)
-2. Deixe os textos centralizados nas células
+3. Altere a cor da primeira linha (título)
+4. Deixe os textos centralizados nas células
+5. Entregue o documento pelo Google Sala de Aula:
+  5.1. Acesse o Google Sala de Aula.
+  5.2. Entre na disciplina Informática.
+  5.3. Clique na aba Atividades.
+  5.4. Localize a atividade chamada Aula 01.
+  5.5. Leia as instruções da atividade com atenção.
+  5.6. À direita, clique em Adicionar ou Criar.
+  5.7. Escolha a opção Google Drive.
+  5.8. Selecione o documento criado anteriormente.
+  5.9. Clique em Entregar para finalizar o envio da atividade.
+
 
 ------
 

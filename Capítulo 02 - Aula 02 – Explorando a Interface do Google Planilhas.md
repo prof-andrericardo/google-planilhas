@@ -100,6 +100,16 @@ No canto direito, você encontra o botão azul **Compartilhar**
 3. Crie uma nova aba chamada `Testes`
 4. Digite seu nome na célula A1
 5. Veja se aparece na **barra de fórmulas**
+6. Entregue o documento pelo Google Sala de Aula:
+    - 6.1. Acesse o Google Sala de Aula.
+    - 6.2. Entre na disciplina Informática.
+    - 6.3. Clique na aba Atividades.
+    - 6.4. Localize a atividade chamada Aula 01.
+    - 6.5. Leia as instruções da atividade com atenção.
+    - 6.6. À direita, clique em Adicionar ou Criar.
+    - 6.7. Escolha a opção Google Drive.
+    - 6.8. Selecione o documento criado anteriormente.
+    - 6.9. Clique em Entregar para finalizar o envio da atividade.
 
 📝 **Desafio Rápido**  
 - Onde fica o botão para aplicar bordas?

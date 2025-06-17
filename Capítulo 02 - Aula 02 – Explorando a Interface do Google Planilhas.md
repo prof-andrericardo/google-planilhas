@@ -104,7 +104,7 @@ No canto direito, você encontra o botão azul **Compartilhar**
     - 6.1. Acesse o Google Sala de Aula.
     - 6.2. Entre na disciplina Informática.
     - 6.3. Clique na aba Atividades.
-    - 6.4. Localize a atividade chamada Aula 01.
+    - 6.4. Localize a atividade chamada Aula 02.
     - 6.5. Leia as instruções da atividade com atenção.
     - 6.6. À direita, clique em Adicionar ou Criar.
     - 6.7. Escolha a opção Google Drive.

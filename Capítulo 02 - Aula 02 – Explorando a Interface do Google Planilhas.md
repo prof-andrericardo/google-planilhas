@@ -88,33 +88,85 @@ No canto direito, você encontra o botão azul **Compartilhar**
 
 ---
 
-## 👨‍🏫 Atividade em Sala
+# 📘 **Atividade em Sala: "Explorando a Interface"**
 
-> “Explorando a Interface”
+## 🎯 **Objetivo da Atividade**
+> Consolidar o conhecimento sobre os principais elementos da interface do Google Planilhas através de uma exploração guiada e prática.
 
-1. Crie uma nova planilha e nomeie como **Minha Primeira Planilha**
-2. Localize e clique em:
-   - O menu `Inserir`
-   - A ferramenta de **cor de texto**
-   - O botão **Compartilhar**
-3. Crie uma nova aba chamada `Testes`
-4. Digite seu nome na célula A1
-5. Veja se aparece na **barra de fórmulas**
-6. Entregue o documento pelo Google Sala de Aula:
-    - 6.1. Acesse o Google Sala de Aula.
-    - 6.2. Entre na disciplina Informática.
-    - 6.3. Clique na aba Atividades.
-    - 6.4. Localize a atividade chamada Aula 02.
-    - 6.5. Leia as instruções da atividade com atenção.
-    - 6.6. À direita, clique em Adicionar ou Criar.
-    - 6.7. Escolha a opção Google Drive.
-    - 6.8. Selecione o documento criado anteriormente.
-    - 6.9. Clique em Entregar para finalizar o envio da atividade.
+---
 
-📝 **Desafio Rápido**  
-- Onde fica o botão para aplicar bordas?
-- Onde você mudaria a cor do fundo da célula?
-- O que acontece quando você clica com o botão direito em uma aba?
+## 🛠️ **Missão Passo a Passo**
+
+### 1️⃣ **Preparação Inicial**
+1. Crie uma nova planilha chamada **"Minha Primeira Planilha [Seu Nome]"**
+2. Renomeie a aba principal para **"Exploração"**
+
+### 2️⃣ **Descoberta dos Elementos**
+3. Na aba "Exploração":
+   - Digite seu nome completo na célula **A1**
+   - Insira um emoji que represente você na célula **B1** (Menu: `Inserir` > `Emoji`)
+   - Altere a cor do texto do seu nome para **azul** (Ferramenta: Cor do texto)
+
+### 3️⃣ **Explorando Funções**
+4. Crie uma nova aba chamada **"Testes"**
+5. Na aba "Testes":
+   - Digite "Bem-vindo!" na célula **A1**
+   - Aplique **bordas externas** na célula A1 (Menu: `Formatar` > `Bordas`)
+   - Pinte o fundo da célula A1 de **amarelo claro** (Ferramenta: Cor de preenchimento)
+
+### 4️⃣ **Colaboração**
+6. Clique no botão **"Compartilhar"**:
+   - Adicione o e-mail do seu professor
+   - Defina a permissão como **"Editor"**
+   - Escreva na mensagem: "Atividade da Aula 02 - [Seu Nome]"
+
+---
+
+## 📝 **Desafios Complementares** (0,5 ponto extra cada)
+
+### 🔍 **Desafio 1: Congelamento**
+- Congele a primeira linha (Menu: `Exibir` > `Congelar` > `1 linha`)
+
+### 🎨 **Desafio 2: Formatação Avançada**
+- Na aba "Exploração", formate a célula B1 com:
+  - Texto em negrito
+  - Cor de fundo verde claro
+  - Borda tracejada
+
+### ⏱️ **Desafio 3: Histórico**
+- Acesse o histórico de versões (Menu: `Arquivo` > `Histórico de versões`) e:
+  - Visualize a primeira versão da planilha
+  - Anote a data/hora da criação
+
+---
+
+## 📤 **Entrega da Atividade**
+
+1. Acesse o Google Sala de Aula
+2. Navegue até a disciplina **Informática**
+3. Localize a atividade **"Aula 02 - Explorando a Interface"**
+4. Clique em `Adicionar ou Criar` > `Google Drive`
+5. Selecione sua planilha **"Minha Primeira Planilha [Seu Nome]"**
+6. Clique em **Entregar**
+
+> ⏳ **Tempo estimado:** 20 minutos
+
+---
+
+## 💡 **Critérios de Avaliação**
+| Item               | Pontuação |
+|--------------------|-----------|
+| Nome e emoji       | 2,0 pts   |
+| Formatação básica  | 3,0 pts   |
+| Aba "Testes"       | 2,0 pts   |
+| Compartilhamento   | 2,0 pts   |
+| Desafios extras    | 1,5 pts   |
+| **Total**          | **10,0 pts** |
+
+---
+
+✨ **Dica do Professor:** 
+"Use `Ctrl+Z` para desfazer acidentalidades e salve com frequência! O histórico de versões pode ser seu melhor amigo."
 
 ---
 
